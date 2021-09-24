@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "whatever",
+    "name": "Whatever",
+    "description": "",
+    "version": "1.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "unknown"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
